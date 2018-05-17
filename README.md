@@ -1,2 +1,2 @@
 # overlay-box
-a=A simple UI project
+A simple UI project
